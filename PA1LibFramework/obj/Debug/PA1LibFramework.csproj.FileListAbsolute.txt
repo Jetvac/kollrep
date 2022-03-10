@@ -1,0 +1,6 @@
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibFramework\bin\Debug\PA1LibFramework.dll
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibFramework\bin\Debug\PA1LibFramework.pdb
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibFramework\obj\Debug\PA1LibFramework.csproj.AssemblyReference.cache
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibFramework\obj\Debug\PA1LibFramework.csproj.CoreCompileInputs.cache
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibFramework\obj\Debug\PA1LibFramework.dll
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibFramework\obj\Debug\PA1LibFramework.pdb

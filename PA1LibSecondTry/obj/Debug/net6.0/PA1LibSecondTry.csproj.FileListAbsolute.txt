@@ -1,0 +1,12 @@
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibSecondTry\bin\Debug\net6.0\PA1LibSecondTry.deps.json
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibSecondTry\bin\Debug\net6.0\PA1LibSecondTry.dll
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibSecondTry\bin\Debug\net6.0\ref\PA1LibSecondTry.dll
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibSecondTry\bin\Debug\net6.0\PA1LibSecondTry.pdb
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibSecondTry\obj\Debug\net6.0\PA1LibSecondTry.csproj.AssemblyReference.cache
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibSecondTry\obj\Debug\net6.0\PA1LibSecondTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibSecondTry\obj\Debug\net6.0\PA1LibSecondTry.AssemblyInfoInputs.cache
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibSecondTry\obj\Debug\net6.0\PA1LibSecondTry.AssemblyInfo.cs
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibSecondTry\obj\Debug\net6.0\PA1LibSecondTry.csproj.CoreCompileInputs.cache
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibSecondTry\obj\Debug\net6.0\PA1LibSecondTry.dll
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibSecondTry\obj\Debug\net6.0\ref\PA1LibSecondTry.dll
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibSecondTry\obj\Debug\net6.0\PA1LibSecondTry.pdb

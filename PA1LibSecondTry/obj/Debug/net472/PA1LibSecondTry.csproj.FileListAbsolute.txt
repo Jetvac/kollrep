@@ -1,0 +1,5 @@
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibSecondTry\obj\Debug\net472\PA1LibSecondTry.csproj.AssemblyReference.cache
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibSecondTry\obj\Debug\net472\PA1LibSecondTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibSecondTry\obj\Debug\net472\PA1LibSecondTry.AssemblyInfoInputs.cache
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibSecondTry\obj\Debug\net472\PA1LibSecondTry.AssemblyInfo.cs
+C:\Users\edrum\source\repos\ConsoleApp1\PA1LibSecondTry\obj\Debug\net472\PA1LibSecondTry.csproj.CoreCompileInputs.cache
